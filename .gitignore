@@ -1,0 +1,8 @@
+.env
+runs/
+data/
+audio/
+audio_segments/
+*.wav
+__pycache__/
+.DS_Store
